@@ -1,0 +1,16 @@
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams_First_Application.Form1.resources
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.csproj.GenerateResource.cache
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.AssemblyInfoInputs.cache
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.AssemblyInfo.cs
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.csproj.CoreCompileInputs.cache
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\bin\Debug\net8.0-windows\Sams First Application.exe
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\bin\Debug\net8.0-windows\Sams First Application.deps.json
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\bin\Debug\net8.0-windows\Sams First Application.runtimeconfig.json
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\bin\Debug\net8.0-windows\Sams First Application.dll
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\bin\Debug\net8.0-windows\Sams First Application.pdb
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.dll
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\refint\Sams First Application.dll
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.pdb
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\Sams First Application.genruntimeconfig.cache
+C:\Users\Md As Sams Islam\source\repos\Sams First Application\Sams First Application\obj\Debug\net8.0-windows\ref\Sams First Application.dll
